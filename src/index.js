@@ -11,9 +11,11 @@ app.use(function(req, res, next) {
     next();
 });
 
+app.set('port', process.env.PORT || 3000);
+
 // Routes
 app.use(require('./routes/users'));
 
-app.listen(3000, (req, res) => {
-    console.log('Server on port', 3000);
+app.listen(app.get('port'), (req, res) => {
+    console.log('Server on port', app.get('port'));
 });
