@@ -1,12 +1,10 @@
-# Backend - Aplicación gestión de proyectos de desarrollo de software
+# Backend - Text API Telegram / DialogFlow
 
 ## Descripción
-Backend Rest Api desarrollado para aplicación de prueba para la gestión de proyectos de desarrollo de software elaborada en 4 horas, utilizando manejo de sesiones con JWT (JSON Web Token), NodeJS, Express, MySQL.
+Api desarrollada para comunicarse con Bot de DialogFlow el cual se encuentra conectado a bot de Telegram.
 
-## Vista previa - Peticiones a RestApi
+## Vista previa - Peticiones a bot
 
-![image](https://user-images.githubusercontent.com/67478427/133286040-43636439-fc63-4084-bbc8-ab308f550f21.png)
+![WhatsApp Image 2021-09-14 at 2 33 36 PM](https://user-images.githubusercontent.com/67478427/133322255-f6202477-0ada-471e-9e86-e5309fbcf8fd.jpeg)
 
-## URL
-
-[https://backend-apptest.herokuapp.com/](url)
+![WhatsApp Image 2021-09-14 at 2 33 53 PM](https://user-images.githubusercontent.com/67478427/133322319-cade5620-03fa-4821-9769-d527227ca0d6.jpeg)
