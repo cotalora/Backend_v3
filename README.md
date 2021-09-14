@@ -9,4 +9,4 @@ Backend Rest Api desarrollado para aplicación de prueba para la gestión de pro
 
 ## URL
 
-[https://backend-apptest.herokuapp.com/](url)
+https://backend-apptest.herokuapp.com/
